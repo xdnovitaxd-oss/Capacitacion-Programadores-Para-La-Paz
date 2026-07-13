@@ -1,0 +1,28 @@
+Iteración simple
+
+¿Qué 2 tareas del backlog haría primero?
+
+1. Como ciudadano quiero reportar un daño en la infraestructura del
+   barrio para que la comunidad tenga registro y se le dé seguimiento.
+2. Como coordinador quiero recibir una notificación en Telegram cuando
+   llegue un nuevo reporte para poder revisarlo lo antes posible.
+
+¿Por qué son las más importantes?
+
+Son las más importantes porque, sin la posibilidad de registrar un
+reporte, no existiría información con la cual trabajar; es la base
+de todo el sistema. Y sin la notificación al coordinador, los reportes
+podrían quedar sin revisión durante mucho tiempo, retrasando la
+respuesta de la comunidad. Ambas tareas garantizan que el flujo
+básico (reportar → enterarse → atender) funcione desde el inicio.
+
+¿Qué significa que una tarea esté "terminada"?
+
+Definición de terminado:
+
+1. Funciona correctamente sin errores al probarla.
+2. Fue probada manualmente (por ejemplo, con curl o Thunder Client)
+   confirmando que responde como se espera.
+3. Quedó registrada y subida a Git con un commit claro.
+4. Fue revisada por al menos otra persona del equipo antes de darla
+   por concluida.

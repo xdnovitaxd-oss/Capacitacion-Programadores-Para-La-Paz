@@ -1,0 +1,29 @@
+Backlog - Historias de usuario
+
+1. Como ciudadano quiero reportar un daño en la infraestructura del
+   barrio para que la comunidad tenga registro y se le dé seguimiento.
+
+2. Como coordinador quiero recibir una notificación en Telegram cuando
+   llegue un nuevo reporte para poder revisarlo lo antes posible.
+
+3. Como miembro del equipo de veeduría quiero consultar el listado de
+   reportes registrados para hacer seguimiento a su estado.
+
+4. Como ciudadano quiero ver el estado de mi reporte (pendiente, en
+   revisión, resuelto) para saber si ya está siendo atendido.
+
+5. Como administrador quiero asignar un responsable a cada reporte
+   para distribuir mejor el trabajo dentro del equipo.
+
+Orden de prioridad (de mayor a menor):
+
+1. Como ciudadano quiero reportar un daño en la infraestructura del
+   barrio para que la comunidad tenga registro y se le dé seguimiento.
+2. Como coordinador quiero recibir una notificación en Telegram cuando
+   llegue un nuevo reporte para poder revisarlo lo antes posible.
+3. Como miembro del equipo de veeduría quiero consultar el listado de
+   reportes registrados para hacer seguimiento a su estado.
+4. Como ciudadano quiero ver el estado de mi reporte (pendiente, en
+   revisión, resuelto) para saber si ya está siendo atendido.
+5. Como administrador quiero asignar un responsable a cada reporte
+   para distribuir mejor el trabajo dentro del equipo.

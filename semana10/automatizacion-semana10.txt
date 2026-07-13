@@ -1,0 +1,23 @@
+Automatización simple - n8n y Telegram
+
+Evento: se registra un nuevo reporte de incidencia en la plataforma
+(por ejemplo, un ciudadano envía un daño en la infraestructura).
+
+Acción: n8n detecta el nuevo registro y envía automáticamente un
+mensaje a un grupo de Telegram del equipo de coordinación.
+
+Mensaje que se enviaría a Telegram:
+"Nuevo reporte recibido: Infraestructura. Ingresa a la plataforma
+para revisar los detalles y asignar seguimiento."
+
+Información que NO debería enviarse por seguridad:
+- Nombres completos de quien reporta.
+- Números de identificación o documentos.
+- Direcciones exactas o ubicaciones precisas.
+- Números de teléfono.
+- Contraseñas, claves o credenciales de acceso.
+- Datos de salud o cualquier información sensible del ciudadano.
+
+El mensaje debe limitarse a confirmar que algo nuevo llegó y motivar
+a revisar el sistema directamente, sin exponer datos personales por
+un canal externo como Telegram.
