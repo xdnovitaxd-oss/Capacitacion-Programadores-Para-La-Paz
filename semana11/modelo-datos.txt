@@ -1,0 +1,27 @@
+Entidad: Reporte
+
+Campos principales:
+- id
+- tipo
+- descripcion
+- estado
+- fecha
+
+Propósito:
+Guardar las incidencias o reportes enviados por los ciudadanos, permitiendo
+darles seguimiento desde que se registran hasta que son atendidos.
+
+
+Entidad: Comentario
+
+Campos principales:
+- id
+- reporte_id
+- usuario
+- mensaje
+- fecha
+
+Propósito:
+Registrar los comentarios o actualizaciones que el equipo o la comunidad
+agrega a cada reporte, permitiendo llevar un historial de seguimiento y
+comunicación sobre el caso.

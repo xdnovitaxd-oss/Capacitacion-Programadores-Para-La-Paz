@@ -1,0 +1,26 @@
+Interfaz simple para la plataforma comunitaria
+
+La interfaz contaría con una sección principal donde los usuarios
+puedan crear una nueva causa, mediante un formulario sencillo con
+campos para el título, una breve descripción del problema o
+iniciativa, y la fecha de creación. Este formulario permitiría que
+cualquier miembro de la comunidad proponga una causa nueva para que
+otros la conozcan y decidan apoyarla.
+
+Debajo de esa sección, habría una vista de causas disponibles,
+presentada como una lista o tarjetas, donde cada causa muestre su
+título, descripción y fecha, permitiendo que los usuarios naveguen
+fácilmente entre las diferentes iniciativas activas en la
+plataforma.
+
+Cada causa dentro de esa lista tendría un botón de apoyo, que el
+usuario puede presionar para manifestar su respaldo, junto con un
+contador de apoyos visible que se actualice automáticamente y
+muestre cuántas personas han apoyado esa causa hasta el momento,
+dando una idea rápida del nivel de respaldo comunitario que tiene.
+
+En general, la interfaz debe mantenerse clara y sencilla, evitando
+el exceso de elementos visuales, y no debe mostrar información
+privada de los usuarios que apoyan (como nombres completos o datos
+de contacto), limitándose únicamente a mostrar el número total de
+apoyos de forma anónima.
