@@ -1,0 +1,15 @@
+Organizar el trabajo de una solución comunitaria con backlog e
+iteraciones permite tener claridad sobre qué tareas son prioritarias
+y avanzar de forma ordenada, sin perder de vista lo que ya se hizo
+ni lo que falta por hacer. Definir historias de usuario ayuda a
+entender qué necesita realmente cada persona involucrada, ya sea
+un ciudadano, un coordinador o un miembro del equipo de veeduría,
+y a partir de ahí priorizar lo más urgente, como poder reportar una
+incidencia y ser notificado a tiempo. Además, establecer una
+definición clara de "terminado" evita entregas incompletas o mal
+probadas, dando más confianza al equipo sobre lo que realmente
+funciona. Por otro lado, sumar automatización con herramientas como
+n8n y Telegram puede agilizar la coordinación, pero solo si se hace
+con responsabilidad, evitando exponer datos sensibles de la
+comunidad. En conjunto, estas prácticas hacen que un proyecto
+tecnológico social sea más organizado, seguro y confiable.
